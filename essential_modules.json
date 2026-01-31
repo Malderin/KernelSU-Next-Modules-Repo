@@ -1,0 +1,23 @@
+[
+  {
+    "id": "KPatch-Next",
+    "name": "KPatch Next",
+    "description": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "author": "rifsxd, KOWX712",
+    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module"
+  },
+  {
+    "id": "ksu_toolkit",
+    "name": "KernelSU Toolkit",
+    "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
+    "author": "backslashxx, KOWX712",
+    "repoUrl": "https://github.com/rifsxd/ksu_toolkit"
+  },
+  {
+    "id": "bindhosts",
+    "name": "Bindhosts",
+    "description": "Systemless hosts for APatch, KernelSU and Magisk",
+    "author": "backslashxx, KOWX712",
+    "repoUrl": "https://github.com/bindhosts/bindhosts"
+  }
+]
