@@ -27,6 +27,7 @@
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/TEESimulator"
   },
+  {
     "id": "TA_utl",
     "name": "Tricky Addon",
     "description": "A WebUI to configure Tricky Store/TEESimulator target.txt",
