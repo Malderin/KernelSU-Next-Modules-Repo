@@ -40,5 +40,12 @@
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
     "author": "Alireza Parsi",
     "repoUrl": "https://github.com/AlirezaParsi/COPG"
+  },
+  {
+    "id": "playintegrityfix",
+    "name": "Play Integrity Fix [INJECT]",
+    "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
+    "author": "chiteroman, KOWX712",
+    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
   }
 ]
