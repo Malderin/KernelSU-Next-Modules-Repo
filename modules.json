@@ -1,4 +1,33 @@
 [
+  [
+  {
+    "id": "zygisk-detach",
+    "name": "zygisk-detach (Malderin add)",
+    "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets.",
+    "author": "j-hc",
+    "repoUrl": "https://github.com/j-hc/zygisk-detach"
+  },
+    {
+    "id": "KernelSU Next GKI Patcher",
+    "name": "KernelSU Next GKI patcher (Malderin add)",
+    "description": "Модуль для KernelSU Next, который упрощает установку и обновление ядер AnyKernel3 на устройства с поддержкой GKI2-ядер",
+    "author": "AJIEKCAHgP, Original",
+    "repoUrl": "https://github.com/CMiSSioN/GKI_patcher_curl_ui"
+  },
+  {
+    "id": "GhostGMS",
+    "name": "GhostGMS (Malderin add)",
+    "description": "Optimize Google Mobile Services for better battery life, privacy, and performance",
+    "author": "Kaushik",
+    "repoUrl": "https://github.com/kaushikieeee/GhostGMS"
+  },
+  {
+    "id": "LSPosed by JingMatrix",
+    "name": "LSPosed (Malderin add)",
+    "description": "LSPosed framework",
+    "author": "JingMatrix & LSPosed Developers",
+    "repoUrl": "https://github.com/JingMatrix/LSPosed"
+  },
   {
     "id": "KPatch-Next",
     "name": "KPatch Next",
@@ -63,7 +92,6 @@
     "author": "sidex15",
     "repoUrl": "https://github.com/sidex15/deviceidchanger",
     "license": "AGPL-3.0"
-
   },
   {
     "id": "susfs4ksu",
