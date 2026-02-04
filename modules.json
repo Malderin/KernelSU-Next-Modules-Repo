@@ -4,28 +4,32 @@
     "name": "zygisk-detach (Malderin add)",
     "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets.",
     "author": "j-hc",
-    "repoUrl": "https://github.com/j-hc/zygisk-detach"
+    "repoUrl": "https://github.com/j-hc/zygisk-detach",
+    "license": "GPL-3.0"
   },
     {
     "id": "KernelSU Next GKI Patcher",
     "name": "KernelSU Next GKI patcher (Malderin add)",
     "description": "Модуль для KernelSU Next, который упрощает установку и обновление ядер AnyKernel3 на устройства с поддержкой GKI2-ядер",
     "author": "AJIEKCAHgP, Original",
-    "repoUrl": "https://github.com/CMiSSioN/GKI_patcher_curl_ui"
+    "repoUrl": "https://github.com/CMiSSioN/GKI_patcher_curl_ui",
+    "license": "GPL-3.0"
   },
   {
     "id": "GhostGMS",
     "name": "GhostGMS (Malderin add)",
     "description": "Optimize Google Mobile Services for better battery life, privacy, and performance",
     "author": "Kaushik",
-    "repoUrl": "https://github.com/kaushikieeee/GhostGMS"
+    "repoUrl": "https://github.com/kaushikieeee/GhostGMS",
+    "license": "GPL-3.0"
   },
   {
     "id": "LSPosed by JingMatrix",
     "name": "LSPosed (Malderin add)",
     "description": "LSPosed framework",
     "author": "JingMatrix & LSPosed Developers",
-    "repoUrl": "https://github.com/JingMatrix/LSPosed"
+    "repoUrl": "https://github.com/JingMatrix/LSPosed",
+    "license": "GPL-3.0"
   },
   {
     "id": "KPatch-Next",
@@ -41,7 +45,7 @@
     "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
     "author": "xx, KOWX712",
     "repoUrl": "https://github.com/rifsxd/ksu_toolkit",
-    "license": "Unlicense"
+    "license": "Unlicense",
     "visibility": 0
   },
   {
@@ -50,7 +54,7 @@
     "description": "Systemless hosts for APatch, KernelSU and Magisk",
     "author": "xx, KOWX712",
     "repoUrl": "https://github.com/bindhosts/bindhosts",
-    "license": "WTFPL"
+    "license": "WTFPL",
     "visibility": 0
   },
   {
@@ -59,7 +63,7 @@
     "description": "Software simulation for Android hardware-backed key pairs with key attestation",
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/TEESimulator",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
     "visibility": 0
   },
   {
@@ -77,7 +81,7 @@
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
     "author": "Alireza Parsi",
     "repoUrl": "https://github.com/AlirezaParsi/COPG",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
     "visibility": 0
   },
   {
@@ -94,7 +98,7 @@
     "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
     "author": "sidex15",
     "repoUrl": "https://github.com/sidex15/deviceidchanger",
-    "license": "AGPL-3.0"
+    "license": "AGPL-3.0",
     "visibility": 0
   },
   {
