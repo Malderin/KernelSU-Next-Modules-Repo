@@ -42,6 +42,7 @@
     "author": "xx, KOWX712",
     "repoUrl": "https://github.com/rifsxd/ksu_toolkit",
     "license": "Unlicense"
+    "visibility": 0
   },
   {
     "id": "bindhosts",
@@ -50,6 +51,7 @@
     "author": "xx, KOWX712",
     "repoUrl": "https://github.com/bindhosts/bindhosts",
     "license": "WTFPL"
+    "visibility": 0
   },
   {
     "id": "tricky_store",
@@ -58,6 +60,7 @@
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/TEESimulator",
     "license": "GPL-3.0"
+    "visibility": 0
   },
   {
     "id": "rezygisk",
@@ -66,7 +69,7 @@
     "author": "The PerformanC Organization",
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
     "license": "GPL-3.0",
-#   "visibility": 0
+    "visibility": 0
   },
   {
     "id": "COPG",
@@ -75,6 +78,7 @@
     "author": "Alireza Parsi",
     "repoUrl": "https://github.com/AlirezaParsi/COPG",
     "license": "Apache-2.0"
+    "visibility": 0
   },
   {
     "id": "playintegrityfix",
@@ -91,6 +95,7 @@
     "author": "sidex15",
     "repoUrl": "https://github.com/sidex15/deviceidchanger",
     "license": "AGPL-3.0"
+    "visibility": 0
   },
   {
     "id": "susfs4ksu",
