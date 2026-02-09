@@ -14,6 +14,7 @@
     "author": "PerformanC",
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
     "license": "GPL-3.0"
+    "visibility": 0
   },
   {
     "id": "zygisk-detach",
@@ -89,7 +90,6 @@
     "author": "The PerformanC Organization",
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
     "license": "GPL-3.0",
-    "visibility": 0
   },
   {
     "id": "COPG",
