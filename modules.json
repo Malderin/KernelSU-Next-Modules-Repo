@@ -1,29 +1,20 @@
 [
-  {
+    {
     "id": "adbultimate",
     "name": "ADB ultimate (Malderin add)",
     "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via su",
     "author": "nullcorredfy",
     "repoUrl": "https://github.com/nullcorredfy/adbultimate",
     "license": "GPL-3.0"
-  },
-  {
-    "id": "ReZygisk",
-    "name": "ReZygisk (Malderin add)",
-    "description": "ReZygisk is a fork of Zygisk Next, a standalone implementation of Zygisk, providing Zygisk API support for KernelSU, APatch and Magisk (Official and Kitsune)",
-    "author": "PerformanC",
-    "repoUrl": "https://github.com/PerformanC/ReZygisk",
-    "license": "GPL-3.0",
-    "visibility": 0
-  },
-  {
+    },
+    {
     "id": "zygisk-detach",
     "name": "zygisk-detach (Malderin add)",
     "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets.",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/zygisk-detach",
     "license": "GPL-3.0"
-  },
+    },
     {
     "id": "KernelSU Next GKI Patcher",
     "name": "KernelSU Next GKI patcher (Malderin add)",
