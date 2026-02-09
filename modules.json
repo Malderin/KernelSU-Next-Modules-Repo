@@ -5,7 +5,7 @@
     "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via su",
     "author": "nullcorredfy",
     "repoUrl": "https://github.com/nullcorredfy/adbultimate",
-    "license": "GPL-3.0"
+    "license": "MIT"
     },
     {
     "id": "zygisk-detach",
@@ -13,7 +13,7 @@
     "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets.",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/zygisk-detach",
-    "license": "GPL-3.0"
+    "license": "Apache-2.0"
     },
     {
     "id": "KernelSU Next GKI Patcher",
@@ -21,7 +21,7 @@
     "description": "Модуль для KernelSU Next, который упрощает установку и обновление ядер AnyKernel3 на устройства с поддержкой GKI2-ядер",
     "author": "AJIEKCAHgP, Original",
     "repoUrl": "https://github.com/CMiSSioN/GKI_patcher_curl_ui",
-    "license": "GPL-3.0"
+    "license": "AGPL-3.0"
   },
   {
     "id": "GhostGMS",
@@ -29,7 +29,7 @@
     "description": "Optimize Google Mobile Services for better battery life, privacy, and performance",
     "author": "Kaushik",
     "repoUrl": "https://github.com/kaushikieeee/GhostGMS",
-    "license": "GPL-3.0"
+    "license": "Apache-2.0"
   },
   {
     "id": "LSPosed by JingMatrix",
