@@ -1,5 +1,13 @@
 [
-    {
+  {
+    "id": "adbultimate",
+    "name": "ADB ultimate (Malderin add)",
+    "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via su",
+    "author": "nullcorredfy",
+    "repoUrl": "https://github.com/nullcorredfy/adbultimate",
+    "license": "GPL-3.0"
+  },
+  {
     "id": "ReZygisk",
     "name": "ReZygisk (Malderin add)",
     "description": "ReZygisk is a fork of Zygisk Next, a standalone implementation of Zygisk, providing Zygisk API support for KernelSU, APatch and Magisk (Official and Kitsune)",
