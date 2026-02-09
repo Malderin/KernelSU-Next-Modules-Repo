@@ -13,7 +13,7 @@
     "description": "ReZygisk is a fork of Zygisk Next, a standalone implementation of Zygisk, providing Zygisk API support for KernelSU, APatch and Magisk (Official and Kitsune)",
     "author": "PerformanC",
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
     "visibility": 0
   },
   {
@@ -89,7 +89,7 @@
     "description": "Standalone implementation of Zygisk",
     "author": "The PerformanC Organization",
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0"
   },
   {
     "id": "COPG",
