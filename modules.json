@@ -1,7 +1,7 @@
 [
     {
     "id": "adbultimate",
-    "name": "ADB Ultimate (Malderin add)",
+    "name": "#user ADB Ultimate",
     "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via su",
     "author": "NULLCORREDFY",
     "repoUrl": "https://github.com/nullcorredfy/adbultimate",
@@ -9,7 +9,7 @@
     },
     {
     "id": "zygisk-detach",
-    "name": "zygisk-detach (Malderin add)",
+    "name": "#user zygisk-detach",
     "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets.",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/zygisk-detach",
@@ -17,7 +17,7 @@
     },
     {
     "id": "KernelSU Next GKI Patcher",
-    "name": "KernelSU Next GKI patcher (Malderin add)",
+    "name": "#user KernelSU Next GKI patcher",
     "description": "Модуль для KernelSU Next, который упрощает установку и обновление ядер AnyKernel3 на устройства с поддержкой GKI2-ядер",
     "author": "AJIEKCAHgP, Original",
     "repoUrl": "https://github.com/CMiSSioN/GKI_patcher_curl_ui",
@@ -25,7 +25,7 @@
   },
   {
     "id": "GhostGMS",
-    "name": "GhostGMS (Malderin add)",
+    "name": "#user GhostGMS",
     "description": "Optimize Google Mobile Services for better battery life, privacy, and performance",
     "author": "Kaushik",
     "repoUrl": "https://github.com/kaushikieeee/GhostGMS",
@@ -33,7 +33,7 @@
   },
   {
     "id": "LSPosed by JingMatrix",
-    "name": "LSPosed (Malderin add)",
+    "name": "#user LSPosed",
     "description": "LSPosed framework",
     "author": "JingMatrix & LSPosed Developers",
     "repoUrl": "https://github.com/JingMatrix/LSPosed",
