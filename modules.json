@@ -16,7 +16,7 @@
     "license": "Apache-2.0"
     },
     {
-    "id": "KernelSU Next GKI Patcher",
+    "id": "gki_patcher_curl_ui",
     "name": "#user KernelSU Next GKI patcher",
     "description": "Модуль для KernelSU Next, который упрощает установку и обновление ядер AnyKernel3 на устройства с поддержкой GKI2-ядер",
     "author": "AJIEKCAHgP, Original",
@@ -24,7 +24,7 @@
     "license": "AGPL-3.0"
   },
   {
-    "id": "GhostGMS",
+    "id": "ghostgms",
     "name": "#user GhostGMS",
     "description": "Optimize Google Mobile Services for better battery life, privacy, and performance",
     "author": "Kaushik",
@@ -32,7 +32,7 @@
     "license": "Apache-2.0"
   },
   {
-    "id": "LSPosed by JingMatrix",
+    "id": "zygisk_lsposed",
     "name": "#user LSPosed",
     "description": "LSPosed framework",
     "author": "JingMatrix & LSPosed Developers",
