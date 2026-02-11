@@ -83,10 +83,10 @@
   },
   {
     "id": "zygisk_lsposed",
-    "name": "ReLSPosed",
-    "description": "Another, but detection enhanced, implementation of Xposed Framework. Supports Android 8.1 ~ 16.",
-    "author": "ThePedroo, JingMatrix and LSPosed Developers",
-    "repoUrl": "https://github.com/ThePedroo/ReLSPosed",
+    "name": "LSPosed",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16",
+    "author": "JingMatrix and LSPosed Developers",
+    "repoUrl": "https://github.com/JingMatrix/LSPosed",
     "license": "GPL-3.0"
   }
 ]
