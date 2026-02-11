@@ -88,5 +88,13 @@
     "author": "JingMatrix and LSPosed Developers",
     "repoUrl": "https://github.com/JingMatrix/LSPosed",
     "license": "GPL-3.0"
+  },
+  {
+    "id": "zygisksu",
+    "name": "NeoZygisk",
+    "description": "Zygote injection with ptrace",
+    "author": "JingMatrix",
+    "repoUrl": "https://github.com/rifsxd/NeoZygisk/",
+    "license": "GPL-3.0"
   }
 ]
