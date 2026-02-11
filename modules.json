@@ -32,14 +32,6 @@
     "license": "Apache-2.0"
   },
   {
-    "id": "zygisk_lsposed",
-    "name": "#user LSPosed",
-    "description": "LSPosed framework",
-    "author": "JingMatrix & LSPosed Developers",
-    "repoUrl": "https://github.com/JingMatrix/LSPosed",
-    "license": "GPL-3.0"
-  },
-  {
     "id": "KPatch-Next",
     "name": "KPatch Next",
     "description": "Standalone implementation of KPM support for Magisk/KernelSU",
