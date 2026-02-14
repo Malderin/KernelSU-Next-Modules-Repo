@@ -94,7 +94,7 @@
     "name": "NeoZygisk",
     "description": "Zygote injection with ptrace",
     "author": "JingMatrix",
-    "repoUrl": "https://github.com/rifsxd/NeoZygisk/",
+    "repoUrl": "https://github.com/JingMatrix/NeoZygisk/",
     "license": "GPL-3.0"
   }
 ]
