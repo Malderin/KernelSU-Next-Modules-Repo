@@ -1,8 +1,16 @@
 [
     {
+    "id": "noogle-microg",
+    "name": "#user Noogle microG",
+    "description": "Replaces Google Services with microG",
+    "author": "SelfRef",
+    "repoUrl": "https://github.com/selfref/noogle-magisk",
+    "license": "GPL-3.0"
+    },
+    {
     "id": "dev.nullcorredfy.adbultimate",
     "name": "#user ADB Ultimate",
-    "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via 'su'    .",
+    "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via 'su'",
     "author": "NULLCORREDFY",
     "repoUrl": "https://github.com/nullcorredfy/adbultimate",
     "license": "MIT"
