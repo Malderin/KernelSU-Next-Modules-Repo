@@ -13,7 +13,7 @@
     "description": "A Zygisk module trying to provide an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.",
     "author": "re-zero001",
     "repoUrl": "https://github.com/re-zero001/LSPosed-Irena",
-    "license": "GPL-3.0".
+    "license": "GPL-3.0",
     "visibility": 0
     },
     {
