@@ -26,7 +26,7 @@
     },
     {
     "id": "dev.nullcorredfy.adbultimate",
-    "name": "#user ADB Ultimate",
+    "name": "0_ADB Ultimate",
     "description": "This module allows you to forcefully turn on the ADB server via Wi-Fi (via port 5555) and USB interfaces when the system starts and permanently disable the authorization procedure for new devices. Root mode is available via 'su'",
     "author": "NULLCORREDFY",
     "repoUrl": "https://github.com/nullcorredfy/adbultimate",
@@ -34,7 +34,7 @@
     },
     {
     "id": "zygisk-detach",
-    "name": "#user zygisk-detach",
+    "name": "0_zygisk-detach",
     "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/zygisk-detach",
@@ -42,7 +42,7 @@
     },
     {
     "id": "gki_patcher_curl_ui",
-    "name": "#user KernelSU Next GKI patcher",
+    "name": "0_KernelSU Next GKI patcher",
     "description": "Модуль для KernelSU Next, который упрощает установку и обновление ядер AnyKernel3 на устройства с поддержкой GKI2-ядер",
     "author": "AJIEKCAHgP, Original",
     "repoUrl": "https://github.com/CMiSSioN/GKI_patcher_curl_ui",
@@ -50,7 +50,7 @@
   },
   {
     "id": "ghostgms",
-    "name": "#user GhostGMS",
+    "name": "0_GhostGMS",
     "description": "Optimize Google Mobile Services for better battery life, privacy, and performance",
     "author": "Kaushik",
     "repoUrl": "https://github.com/kaushikieeee/GhostGMS",
