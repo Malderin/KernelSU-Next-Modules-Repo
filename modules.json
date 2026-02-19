@@ -18,7 +18,7 @@
     },
     {
     "id": "noogle-microg",
-    "name": "Noogle microG",
+    "name": "0_Noogle microG",
     "description": "Replaces Google Services with microG",
     "author": "SelfRef",
     "repoUrl": "https://github.com/selfref/noogle-magisk",
