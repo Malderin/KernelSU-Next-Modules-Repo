@@ -1,7 +1,7 @@
 [
     {
     "id": "zygisksu",
-    "name": "#user Zygisk Next",
+    "name": "0_Zygisk Next",
     "description": "Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk...",
     "author": "Dr-TSNG",
     "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext",
