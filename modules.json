@@ -34,7 +34,7 @@
     },
     {
     "id": "zygisk-detach",
-    "name": "#user zygisk-detach",
+    "name": "zygisk-detach",
     "description": "Detaches installed apps from Play Store against its aggressive updating policy which ignores the auto-update option user sets",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/zygisk-detach",
