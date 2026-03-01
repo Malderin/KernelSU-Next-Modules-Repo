@@ -7,7 +7,7 @@
     "repoUrl": "https://github.com/Drsexo/Frosty",
     "license": "GPL-3.0",
     },
-  {
+    {
     "id": "zygisksu",
     "name": "0_Zygisk Next",
     "description": "Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk......",
